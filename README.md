@@ -23,7 +23,7 @@ Poor user interface with phones - the user has to repeat mundane functions every
 Anyone who has a smart phone. The number of smartphone users is expected to reach 7.1 billion in 2024. (4)
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-Because Rabbit lauched a piece of hardware that is separate from the phone, their software IP (AI interface executed with LAM rabbits/agents) is not viewable by Apple or Android as it would be if someone had just made an app on and app store. Someone could make a similar product from scratch, but the hardware solution has a higher barrier to entry becuase of the greater cost and complexity. The AI Pin made by Humane offers a similar hardware product, but with a more expensive upfront cost ($700 vs. $200) and with a $24 monthly subscription that the R1 doesn't have. (6)  However, even Lyu has admitted that Apple, Android, or any othe phone manufacturer could create something similar within their platforms and eliminate the second device altogether. To that point, some users have been able to bootleg the APK and replicate the service in an in-phone app. (7) That begs the question, why will I need this secondary device that is more expensive than a typical app? Another question is, does Rabbit-like software eliminate the need for apps at all? (8)
+Because Rabbit lauched a piece of hardware that is separate from the phone, their software IP (AI interface executed with LAM rabbits/agents) is not viewable by Apple or Android as it would be if someone had just made an app on an app store. Someone could make a similar product from scratch, but the hardware solution has a higher barrier to entry becuase of the greater cost and complexity. The AI Pin made by Humane offers a similar hardware product, but with a more expensive upfront cost ($700 vs. $200) and with a $24 monthly subscription that the R1 doesn't have. (6)  However, even Lyu has admitted that Apple, Android, or any othe phone manufacturer could create something similar within their platforms and eliminate the second device altogether. To that point, some users have been able to bootleg the APK and replicate the service in an in-phone app. (7) That begs the question, why will I need this secondary device that is more expensive than a typical app? Perhaps the bigger question is, does an AI interface eliminate the need for apps at all? (8)
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing&mdash;you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 - Large Action Model (LAM), which enhances the predictive language modelling of Large Language Models (LLMs) to understand complex reasoning and execute tasks. (8)
@@ -42,7 +42,7 @@ Humane (AI pin), AI Shiffman (Tab) (9)
 ## Results
 
 * What has been the business impact of this company so far?
-Rabbit has offered the most affordable attempt yet in a shift away from app-based interfaces to more intuitive and less intrusive technology that enhances the user's life. Because it convincingly challenges the need for apps, it is creating a tension with the numerous companies that rely on the app financial model. It is not a matter of whether the user will win, but how quickly and disruptively.  
+Rabbit has offered the most affordable attempt yet in a shift away from app-based interfaces to more intuitive and less intrusive technology that enhances the user's life. Because it convincingly challenges the need for apps, it is creating a tension with the numerous companies that rely on the app-based financial model. It is not a matter of whether the user will win, but how quickly and disruptively.  
 
 * What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
 Device/ value to user: 
@@ -66,7 +66,7 @@ Business
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
-Develop a physical product/platform that bypasses the need for apps.
+Develop a physical ambient computing product/platform with a high level of data security that bypasses the need for apps.
 
 * Why do you think that offering this product or service would benefit the company?
 This would disrupt the multi-billion dollar smartphone industry by offering a better user experience through a simplified, more efficient and more secure user interface with technology.
@@ -75,7 +75,7 @@ This would disrupt the multi-billion dollar smartphone industry by offering a be
 - LAM
 - Cloud computing
 - Ambient computing
-- OS??
+
 
 
 * Why are these technologies appropriate for your solution?
