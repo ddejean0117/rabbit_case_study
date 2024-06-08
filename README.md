@@ -11,7 +11,7 @@ AI Bootcamp Challenge #1
 
 ## Business Activities
 
-* The R1 is Rabbit's attempt to address the poor user interface with smartphones. It allows users to be less distracted by their phones doing repetitive, mundane functions, and more immersed in their environment. It is intended for anyone who has a smart phone, with the number of smartphone users expected to reach 7.1 billion in 2024. (4)
+* The R1 is Rabbit's attempt to address the poor user interface with smartphones. It allows users to be less distracted by their phones doing repetitive, mundane functions, and more immersed in their environment. It is intended for anyone who has a smart phone, with the number of smartphone users expected to reach 7.1 billion in 2024. (5)
 
 * Because Rabbit lauched a piece of hardware that is *separate* from any phone, their software (AI interface executed with LAM rabbits/agents) is not viewable by Apple or Android as it would be had they had made an app on an app store. Competitors could make a similar product from scratch, but the hardware solution has a higher barrier to entry becuase of the greater cost and complexity that goes along with manufacturing. 
 
