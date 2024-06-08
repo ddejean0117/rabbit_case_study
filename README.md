@@ -53,13 +53,13 @@ AI Bootcamp Challenge #1
 
 ## References:
 
-1.  Wikipedia 2024, Rabbit R1, accessed 05 June 2024, https://en.wikipedia.org/wiki/Rabbit_r1#:~:text=Rabbit%20Inc%20was%20started%20by,usefulness%20compared%20to%20a%20smartphone
-2. The Economic Times, ET Explains: Meet Rabbit R1, an AI-powered assistant to manage your apps, accessed 05 June 2024, https://economictimes.indiatimes.com/news/et-explains/et-explains-meet-rabbit-r1-an-ai-powered-assistant-to-manage-your-apps/articleshow/106869876.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst: https://economictimes.indiatimes.com/news/et-explains/et-explains-meet-rabbit-r1-an-ai-powered-assistant-to-manage-your-apps/articleshow/106869876.cms?from=mdr
-3. Fast Company, How Design Drove $10M In Preorders For Rabbit AI Hardware, accessed 05 June 2024, https://www.fastcompany.com/91013196/how-design-drove-10m-in-pre-orders-for-rabbit-r1-ai-hardware
-4. Cybernews, The Rise and Fall of Rabbit R1: What There Is So Much Hype Around a $200 Device, accessed 05 June 2024, https://cybernews.com/tech/the-story-of-rabbit-r1/
-5. Big Data, How Many People Own Smartphones? (2024-2029), accessed 07 June 2024, https://whatsthebigdata.com/smartphone-stats/
-6. Cybernews, What We Can Learn From the Story of Humane's AI Pin, accessed 07 June 2024, https://cybernews.com/tech/the-story-of-humanes-ai-pin/
-7. Cybernews, It Turns Out That Rabbit R1 Is Just An Android App, accessed 07 June 2024, https://cybernews.com/news/rabbit-r1-android-app-apk/
-8. Medium, The Rise of Large Action Models, LAMs: How Can AI Understand and Execute Human Inteitions?, accessed 07 June 2024, https://medium.com/version-1/the-rise-of-large-action-models-lams-how-ai-can-understand-and-execute-human-intentions-f59c8e78bc09#:~:text=LAMs%20is%20the%20spanning%20out,to%20turn%20into%20'agents'
-9. Perplexity, The Future Is Here: The Impact of AI on Wearable Technology, accessed 07 June 2024, https://www.perplexity.ai/page/The-Future-is-0JOCB8XlTdGdqYftFVZOOA
-10. Inc., Humane Founders' Toxic Positivity May Have Killed Its AI Pin Device, accessed 07 June 2024, https://www.inc.com/kit-eaton/humane-founders-toxic-positivity-may-have-killed-its-ai-pin-device.html#:~:text=Humane%20has%20since%20been%20said,be%20north%20of%20%241%20billion.
+1.  Wikipedia 2024, *Rabbit R1*, accessed 05 June 2024, [https://en.wikipedia.org/wiki/Rabbit_r1#:~:text=Rabbit%20Inc%20was%20started%20by,usefulness%20compared%20to%20a%20smartphone](https://en.wikipedia.org/wiki/Rabbit_r1#:~:text=Rabbit%20Inc%20was%20started%20by,usefulness%20compared%20to%20a%20smartphone)
+2. The Economic Times, *ET Explains: Meet Rabbit R1, an AI-powered assistant to manage your apps*, accessed 05 June 2024, https://economictimes.indiatimes.com/news/et-explains/et-explains-meet-rabbit-r1-an-ai-powered-assistant-to-manage-your-apps/articleshow/106869876.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst: https://economictimes.indiatimes.com/news/et-explains/et-explains-meet-rabbit-r1-an-ai-powered-assistant-to-manage-your-apps/articleshow/106869876.cms?from=mdr
+3. Fast Company, *How Design Drove $10M In Preorders For Rabbit AI Hardware*, accessed 05 June 2024, https://www.fastcompany.com/91013196/how-design-drove-10m-in-pre-orders-for-rabbit-r1-ai-hardware
+4. Cybernews, *The Rise and Fall of Rabbit R1: What There Is So Much Hype Around a $200 Device*, accessed 05 June 2024, https://cybernews.com/tech/the-story-of-rabbit-r1/
+5. Big Data, *How Many People Own Smartphones? (2024-2029)*, accessed 07 June 2024, https://whatsthebigdata.com/smartphone-stats/
+6. Cybernews, *What We Can Learn From the Story of Humane's AI Pin*, accessed 07 June 2024, https://cybernews.com/tech/the-story-of-humanes-ai-pin/
+7. Cybernews, *It Turns Out That Rabbit R1 Is Just An Android App*, accessed 07 June 2024, https://cybernews.com/news/rabbit-r1-android-app-apk/
+8. Medium, *The Rise of Large Action Models, LAMs: How Can AI Understand and Execute Human Inteitions?*, accessed 07 June 2024, https://medium.com/version-1/the-rise-of-large-action-models-lams-how-ai-can-understand-and-execute-human-intentions-f59c8e78bc09#:~:text=LAMs%20is%20the%20spanning%20out,to%20turn%20into%20'agents'
+9. Perplexity, *The Future Is Here: The Impact of AI on Wearable Technology*, accessed 07 June 2024, https://www.perplexity.ai/page/The-Future-is-0JOCB8XlTdGdqYftFVZOOA
+10. Inc., *Humane Founders' Toxic Positivity May Have Killed Its AI Pin Device*, accessed 07 June 2024, https://www.inc.com/kit-eaton/humane-founders-toxic-positivity-may-have-killed-its-ai-pin-device.html#:~:text=Humane%20has%20since%20been%20said,be%20north%20of%20%241%20billion.
