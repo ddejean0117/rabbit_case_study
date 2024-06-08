@@ -44,24 +44,23 @@ Humane (AI pin), AI Shiffman (Tab) (9)
 * What has been the business impact of this company so far?
 Rabbit has offered the most affordable attempt yet in a shift away from app-based interfaces to more intuitive and less intrusive technology that enhances the user's life. Because it convincingly challenges the need for apps, it is creating a tension with the numerous companies that rely on the app-based financial model. It is not a matter of whether the user will win, but how quickly and disruptively.  
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics? How is your company performing relative to competitors in the same field?
 Device/ value to user: 
-- Environmental navigation
-- Reliability
-- accuracy
-- Cost
-- Data security
-- intrusiveness
+- Environmental navigation - Huge assist with phone interface; less of a generalist when it comes to overall environment. How is your company performing relative to competitors in the same field?
+- Reliability - So new that reliabiltiy data isn't available. However, the simplicity of the device design (and keeping the processing in the cloud) bodes well. However, the AI Pin competitor has even less hardware (no screen), so may hae a leg up. Pratical application may be more positive than the rival AI pin, which has been critsized for its battery life. (10)
+- accuracy - Again, so new that accuracy data is not available
+- Cost - definte industry leader with device cost
+- Data security - industry standard, cloud computing
+- intrusiveness - Not competitive, given that it adds a second device
 
 Business
-- revenue
-- Profit margin
-- IP protection
-- Barrier to entry
-- Brand Loyalty
-- Scalability - rabbit dev ( in place of apps) (3) 
+- revenue - 100,000 preorders and over $20 million in revenue. (4) That's more than the 10,000 units sold and $7M in revenue that the AI Pin brought in. (10)
+- Profit margin - "considerable margins to spend on some AI processing it outsources" (3)
+- IP protection - cloud based computing, which is industry standard for AI devices
+- Barrier to entry - noticable effort to design/manufacture hardware vs. just software
+- Brand Loyalty - too early to say for sure, but given that there is a real question into the necessity of a seecondary hardware device, loyalty is a difficult jump.
+- Scalability - Lyu has mentioned user training for rabbit devevelopmnt (much like app development on phones) may be where Rabbit R1 reaches scalability. (3) This may be where LAM-based products have a leg up on their competition.
 
-* How is your company performing relative to competitors in the same field?
 
 ## Recommendations
 
@@ -79,16 +78,17 @@ This would disrupt the multi-billion dollar smartphone industry by offering a be
 
 
 * Why are these technologies appropriate for your solution?
-- all are based in reducing user disruption while increasing personal environmental navigation; and making the user-tech interface more effective, efficient and secure
+- all are based in reducing user disruption while increasing personal environmental navigation; and making the user-tech interface more effective, efficient and secure. The addition of ambient computing to the Rabbit's existing technology would add passive/experiential learning, further reducing the user's technology intrusion.
 
 
 References:
-1. wikipedia: https://en.wikipedia.org/wiki/Rabbit_r1#:~:text=Rabbit%20Inc%20was%20started%20by,usefulness%20compared%20to%20a%20smartphone
-2. Economic Times, India: https://economictimes.indiatimes.com/news/et-explains/et-explains-meet-rabbit-r1-an-ai-powered-assistant-to-manage-your-apps/articleshow/106869876.cms?from=mdr
-3. Fast Company: https://www.fastcompany.com/91013196/how-design-drove-10m-in-pre-orders-for-rabbit-r1-ai-hardware
-4. Cybernews: https://cybernews.com/tech/the-story-of-rabbit-r1/
-5. Smartphone stats: https://whatsthebigdata.com/smartphone-stats/
-6. AI Pin: https://cybernews.com/tech/the-story-of-humanes-ai-pin/
-7. R1 app exposed: https://cybernews.com/news/rabbit-r1-android-app-apk/
-8. LAM explained: https://medium.com/version-1/the-rise-of-large-action-models-lams-how-ai-can-understand-and-execute-human-intentions-f59c8e78bc09#:~:text=LAMs%20is%20the%20spanning%20out,to%20turn%20into%20'agents'
-9. AI Wearable Device trends: https://www.perplexity.ai/page/The-Future-is-0JOCB8XlTdGdqYftFVZOOA
+1.  Wikipedia 2024, Rabbit R1, accessed 05 June 2024, https://en.wikipedia.org/wiki/Rabbit_r1#:~:text=Rabbit%20Inc%20was%20started%20by,usefulness%20compared%20to%20a%20smartphone
+2. The Economic Times, ET Explains: Meet Rabbit R1, an AI-powered assistant to manage your apps, accessed 05 June 2024, https://economictimes.indiatimes.com/news/et-explains/et-explains-meet-rabbit-r1-an-ai-powered-assistant-to-manage-your-apps/articleshow/106869876.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst: https://economictimes.indiatimes.com/news/et-explains/et-explains-meet-rabbit-r1-an-ai-powered-assistant-to-manage-your-apps/articleshow/106869876.cms?from=mdr
+3. Fast Company, How Design Drove $10M In Preorders For Rabbit AI Hardware, accessed 05 June 2024, https://www.fastcompany.com/91013196/how-design-drove-10m-in-pre-orders-for-rabbit-r1-ai-hardware
+4. Cybernews, The Rise and Fall of Rabbit R1: What There Is So Much Hype Around a $200 Device, accessed 05 June 2024, https://cybernews.com/tech/the-story-of-rabbit-r1/
+5. Big Data, How Many People Own Smartphones? (2024-2029), accessed 07 June 2024, https://whatsthebigdata.com/smartphone-stats/
+6. Cybernews, What We Can Learn From the Story of Humane's AI Pin, accessed 07 June 2024, https://cybernews.com/tech/the-story-of-humanes-ai-pin/
+7. Cybernews, It Turns Out That Rabbit R1 Is Just An Android App, accessed 07 June 2024, https://cybernews.com/news/rabbit-r1-android-app-apk/
+8. Medium, The Rise of Large Action Models, LAMs: How Can AI Understand and Execute Human Inteitions?, accessed 07 June 2024, https://medium.com/version-1/the-rise-of-large-action-models-lams-how-ai-can-understand-and-execute-human-intentions-f59c8e78bc09#:~:text=LAMs%20is%20the%20spanning%20out,to%20turn%20into%20'agents'
+9. Perplexity, The Future Is Here: The Impact of AI on Wearable Technology, accessed 07 June 2024, https://www.perplexity.ai/page/The-Future-is-0JOCB8XlTdGdqYftFVZOOA
+10. Inc., Humane Founders' Toxic Positivity May Have Killed Its AI Pin Device, accessed 07 June 2024, https://www.inc.com/kit-eaton/humane-founders-toxic-positivity-may-have-killed-its-ai-pin-device.html#:~:text=Humane%20has%20since%20been%20said,be%20north%20of%20%241%20billion.
