@@ -8,6 +8,7 @@ AI Bootcamp Challenge #1
 * Lyu had lost the emotional connection with his phone, and wanted to fix that user experience. Given the high barrier of entry to the phone market, he decided *against* creating a phone and instead to create something to help other established phones. But rather than creating a software based app, he created a walkie talkie like piece of hardware - he did this both to protect his company's IP, and to give the user a sesnse of physical familiarity to accompany the disruptive new technology. (3)
 
 * Rabbit initially raised $30M from Khosla Ventures and other investors. (4) The company's flagship product, the Rabbit R1,   sells at a unit price of $199.
+
 ## Business Activities
 
 * The R1 is Rabbit's attempt to address the poor user interface with smartphones. It allows users to be less distracted by their phones doing repetitive, mundane functions, and more immersed in their environment. It is intended for anyone who has a smart phone, with the number of smartphone users expected to reach 7.1 billion in 2024. (4)
@@ -25,6 +26,7 @@ AI Bootcamp Challenge #1
 * The Rabbit R1 is in the AI wearable devices field. This field has experienced significant growth, driven by health, fitness and personal technology devices. More intuitive interfaces are allowing users to interact less with their devices and more with their environment, removing the intrusiveness of technology. (9)
 
 * Other major companies in this field include Humane (maker of the AI pin mentioned above), and AI Shiffman (maker of the Tab) (9). 
+
 ## Results
 
 * So far, Rabbit has offered the most affordable attempt yet in a shift away from app-based interfaces to more intuitive and less intrusive smart technology. Because it convincingly challenges the need for apps, it is creating a tension with the numerous companies that rely on the app-based financial model. It is not a matter of whether the user will win, but how quickly and disruptively.  
@@ -48,7 +50,7 @@ AI Bootcamp Challenge #1
 
 ## Recommendations
 
-* A prudent recommendation for Rabbit would be to develop a physical ambient computing product/platform leveraging cloud computing for a high level of data security, and implementing LAM technology to bypass the need for apps. This would disrupt the multi-billion dollar smartphone industry by offering a better user experience through a simplified, more efficient and more secure user interface with technology.
+* A prudent recommendation for Rabbit would be to develop a physical **ambient computing hardware product** with a platform leveraging **cloud computing** for a high level of data security, and implementing **LAM technology** to bypass the need for apps. This would disrupt the multi-billion dollar smartphone industry by offering a better user experience through a simplified, more efficient and more secure user interface with technology.
 
 * LAMs, cloud computing and ambient computing are all technologies that reduce user disruption while increasing personal environmental navigation, and making the user-tech interface more effective, efficient and secure. The addition of ambient computing to the Rabbit's existing technology would add passive/experiential learning, further reducing the user's technology intrusion.
 
