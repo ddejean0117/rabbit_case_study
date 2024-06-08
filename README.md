@@ -3,18 +3,20 @@
 AI Bootcamp Challenge #1
 08 June 2024
 ## Overview and Origin
-* Rabbit Inc. was founded in 2022 by Jesse Lyu Cheng, who had in 2017 sold startup Raven Tech (maker of virtual assistants) to Chinese tech giant Baidu. (1)(2)(3)
+* [Rabbit Inc.](https://www.rabbit.tech/) was founded in 2022 by Jesse Lyu Cheng, who had in 2017 sold startup Raven Tech (maker of virtual assistants) to Chinese tech giant Baidu. (1)(2)(3)
 
-* Lyu had lost the emotional connection with his phone, and wanted to fix that user experience. Given the high barrier of entry to the phone market, he decided against creating a phone and instead to create something to help other established phones. But rather than creating a software based app, he created a walkie talkie like piece of hardware - he did this both to protect his company's IP, and to give the user a sesnse of physical familiarity to accompany the disruptive new technology. (3)
+* Lyu had lost the emotional connection with his phone, and wanted to fix that user experience. Given the high barrier of entry to the phone market, he decided *against* creating a phone and instead to create something to help other established phones. But rather than creating a software based app, he created a walkie talkie like piece of hardware - he did this both to protect his company's IP, and to give the user a sesnse of physical familiarity to accompany the disruptive new technology. (3)
 
-* Rabbit initially raised $30M from Khosla Ventures and other investors. (4) The company's flagship product, the Rabbit R1,  now sell at a unit price of $199 each.
+* Rabbit initially raised $30M from Khosla Ventures and other investors. (4) The company's flagship product, the Rabbit R1,   sells at a unit price of $199.
 ## Business Activities
 
-* The R1 is Rabbit's attempt to address the poor user interface with smartphones. It allows users to be less distracted by their phones doing repetitive, mundane functions, and more immersed in their environment.
+* The R1 is Rabbit's attempt to address the poor user interface with smartphones. It allows users to be less distracted by their phones doing repetitive, mundane functions, and more immersed in their environment. It is intended for anyone who has a smart phone, with the number of smartphone users expected to reach 7.1 billion in 2024. (4)
 
-* The R1 is intended for anyone who has a smart phone. The number of smartphone users is expected to reach 7.1 billion in 2024. (4)
+* Because Rabbit lauched a piece of hardware that is *separate* from any phone, their software (AI interface executed with LAM rabbits/agents) is not viewable by Apple or Android as it would be had they had made an app on an app store. Competitors could make a similar product from scratch, but the hardware solution has a higher barrier to entry becuase of the greater cost and complexity that goes along with manufacturing. 
 
-* Because Rabbit lauched a piece of hardware that is separate from any phone, their software IP (AI interface executed with LAM rabbits/agents) is not viewable by Apple or Android as it would be if someone had just made an app on an app store. Competitors could make a similar product from scratch, but the hardware solution has a higher barrier to entry becuase of the greater cost and complexity that goes along with manufacturing. The AI Pin made by Humane offers a similar hardware product, but with a more expensive upfront cost ($699 vs. $199) and with a $24 monthly subscription that the R1 doesn't have. (6)  However, even Lyu has admitted that Apple, Android, or any othe phone manufacturer could create something similar within their platforms and eliminate the [R1]] device altogether. To that point, some users have been able to bootleg the APK and replicate the service in an in-phone app. (7) That begs the question, who will need a secondary device that is more expensive than a typical app? And perhaps the bigger question is, does an AI interface eliminate the need for apps at all? (8) Time will tell.
+    >“We knew that the large action model is like [Apple’s] multitouch. It’s so good that we’re gonna protect it to the point that we want to build dedicated hardware just to run it,” [Lyu] says. “And then the hardware is a result of de-risk. We don’t want to offer you two new things. We want to offer you one thing [AI] and the other thing [an amusing retro-future gadget] that takes you back to the ’90s, the good old fun times.” (3)
+
+* The AI Pin made by Humane offers a similar hardware product, but with a more expensive upfront cost ($699 vs. $199) and with a $24 monthly subscription that the R1 doesn't have. (6)  However, even Lyu has admitted that Apple, Android, or any othe phone manufacturer could create something similar within their platforms and eliminate the [R1]] device altogether. To that point, some users have been able to bootleg the Android Package Kit (APK) and replicate the service in a phone-based app. (7) That begs the question, who will need a secondary device that is more expensive than a typical app? And perhaps the bigger question is, does an AI interface eliminate the need for apps at all? (8) Time will tell.
 
 * The R1 leverages Large Action Model (LAM) technology, which enhances the predictive language modelling of Large Language Models (LLMs) to understand complex reasoning and execute tasks. (8) It also imploys cloud-based processing, to cut down on hardware and provide more security for user data.
 
@@ -53,7 +55,7 @@ AI Bootcamp Challenge #1
 
 ## References:
 
-1.  Wikipedia 2024, *Rabbit R1*, accessed 05 June 2024, [https://en.wikipedia.org/wiki/Rabbit_r1#:~:text=Rabbit%20Inc%20was%20started%20by,usefulness%20compared%20to%20a%20smartphone](https://en.wikipedia.org/wiki/Rabbit_r1#:~:text=Rabbit%20Inc%20was%20started%20by,usefulness%20compared%20to%20a%20smartphone)
+1.  Wikipedia 2024, *Rabbit R1*, accessed 05 June 2024, https://en.wikipedia.org/wiki/Rabbit_r1#:~:text=Rabbit%20Inc%20was%20started%20by,usefulness%20compared%20to%20a%20smartphone
 2. The Economic Times, *ET Explains: Meet Rabbit R1, an AI-powered assistant to manage your apps*, accessed 05 June 2024, https://economictimes.indiatimes.com/news/et-explains/et-explains-meet-rabbit-r1-an-ai-powered-assistant-to-manage-your-apps/articleshow/106869876.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst: https://economictimes.indiatimes.com/news/et-explains/et-explains-meet-rabbit-r1-an-ai-powered-assistant-to-manage-your-apps/articleshow/106869876.cms?from=mdr
 3. Fast Company, *How Design Drove $10M In Preorders For Rabbit AI Hardware*, accessed 05 June 2024, https://www.fastcompany.com/91013196/how-design-drove-10m-in-pre-orders-for-rabbit-r1-ai-hardware
 4. Cybernews, *The Rise and Fall of Rabbit R1: What There Is So Much Hype Around a $200 Device*, accessed 05 June 2024, https://cybernews.com/tech/the-story-of-rabbit-r1/
