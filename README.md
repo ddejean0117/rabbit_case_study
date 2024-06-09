@@ -18,17 +18,31 @@ AI Bootcamp Challenge #1
 
 * Because Rabbit lauched a piece of hardware that is *separate* from any phone, their software (AI interface executed with LAM rabbits/agents) is not viewable by Apple or Android as it would be had they had made an app on an app store. Competitors could make a similar product from scratch, but the hardware solution has a higher barrier to entry becuase of the greater cost and complexity that goes along with manufacturing. 
 
-* The AI Pin made by Humane offers a comparable hardware product, but with a more expensive upfront cost ($699 vs. $199) and with a $24 monthly subscription that the R1 doesn't have. (6)  However, even Lyu has admitted that Apple, Android, or any othe phone manufacturer could create something similar within their platforms and eliminate the [R1] device altogether. To that point, some users have been able to bootleg the Android Package Kit (APK) and replicate the service in a phone-based app. (7) That begs the question, who will need a secondary device that is more expensive than a typical app? And perhaps the bigger question is, does an AI interface eliminate the need for apps at all? (8) It is a question that phone manufacturers must be addressing in their product pipelines today.
+* However, even Lyu has admitted that Apple, Android, or any othe phone manufacturer could create something similar within their platforms and eliminate the [R1] device altogether. To that point, some users have been able to bootleg the Android Package Kit (APK) and replicate the service in a phone-based app. (7) That begs the question, who will need a secondary device that is more expensive than a typical app? And perhaps the bigger question is, does an AI interface eliminate the need for apps at all? (8) It is a question that phone manufacturers must be addressing in their product pipelines today.
 
 ## Landscape
 
-* The Rabbit R1 is in the AI wearable devices field. This field has experienced significant growth, driven by health, fitness and personal technology devices. More intuitive interfaces are allowing users to interact less with their devices and more with their environment, removing the intrusiveness of technology. (9) Other major companies in this field include Humane (maker of the AI pin mentioned above), and AI Shiffman (maker of the Tab) (9). 
+* The Rabbit R1 is in the AI devices field. This field has experienced significant growth in the last few years, driven by health, fitness and personal technology devices. More intuitive interfaces are allowing users to interact less with their devices and more with their environment, removing the intrusiveness of technology. (9) Other major companies in this field include Humane (maker of the AI pin mentioned above), and AI Schiffman (maker of the Tab), Limitless (maker of the Rewind Pendant), and reportedly an OpenAI/LoveFrom collaboration (potential future maker of an AI phone).
 
-* The Tab device is nothing more than a $600 always-on microphone worn on a necklace. Recordings are downloaded to your phone, then to the cloud where your conversations are transcribed by ChatGPT. The $50 per month service fee covers the theraputic insights that 
+* The [AI Pin](https://humane.com/aipin) offers a comparable product to the R1, but with a more expensive upfront cost ($699 vs. $199) and with a $24 monthly subscription that the R1 doesn't have. (6)  The device is worn like a broach and operated with finger touches. Unlike the R1, the AI Pin has a camera to interact with your environment, and a projector that allows you to make selections on the palm of your hand (since it lacks R1's display screen).
+
+* The [Tab](https://mytab.ai/) device is nothing more than a $600 always-on microphone worn on a necklace. Recordings are downloaded to your phone, then to the cloud where your conversations are transcribed by ChatGPT. The $50 per month service fee (waived for the first year) covers the life coaching insights that the platform gleans out of your conversations. It's creator, Avi Schiffmann, stated of the device:
+
+   >“Tab is not an assistant, period. I’m not building something that’s going to connect to Notion or your emails any time soon. I’m solely building . . . a friend that morphs into your creative partner, life coach, [or] therapist as needed,” he says. “What I’m trying to do is create a new relationship in your life; radical transparency without concern of judgment." (11)
+   
+   While he may be onto something, several aspects of Tab remain to be seen:
+   * Whether Tab users - and especially the people they talk to that aren't Tab users - appreciate their conversations being recorded
+   * How secure those recodings are
+   * How perceptive and useful Tab's insight really are, and if they warrant a $50 service fee by displacing traditional therapy
+   * If there is a more affordable microphone
+
+* The [Rewind Pendant](https://www.limitless.ai/#pendant) from Limitless is a magnetic broach that functions similarly to the Tab, but it aspires to be a notetaker and AI assistant rather than a life coach. At $99 with no service fee, it powerfully questions the Tab's business model. They've raised $33 million in funding, and anticipate a product release in fourth quarter of 2024. (11)
+
+* OpenAI/LoveFrom's anticipated collaboration on the "iPhone of artificial intelligence" has been rumored to marry industry-leading AI functionality with unparalleled attention to detail. While the $1B fundraising efforts and LoveFrom's expansive development timelines may put the realization of this rumor several years out (11), it is probably the most likely market challenger to the R1, as it would presumably be *the* well-crafted groud-up solution that fully harnesses the ability of AI to transform user experience.
 
 ## Results
 
-* So far, Rabbit has offered the most affordable attempt yet in a shift away from app-based interfaces to more intuitive and less intrusive smart technology. Because it convincingly challenges the need for apps, it is creating a tension with the numerous companies that rely on the app-based financial model. It is not a matter of whether the user will win, but how quickly and disruptively.  
+* So far, Rabbit has offered the most affordable attempt yet in a shift away from app-based interfaces to more intuitive and less intrusive smart technology. Because it convincingly challenges the need for apps, it is creating a tension with the numerous companies that rely on the app-based financial model. It is not a matter of whether the user experience will win out, but how quickly and disruptively.  
 
 * Here's how Rabbit Inc. is performing relative to competitors in the same field:
     - Rabbit as a business:
