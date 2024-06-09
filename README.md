@@ -1,7 +1,7 @@
 # rabbit_case_study
 #### Danielle Dejean 
-AI Bootcamp Challenge #1
-08 June 2024
+AI Bootcamp Challenge #1,
+09 June 2024
 ## Overview and Origin
 * [Rabbit Inc.](https://www.rabbit.tech/) was founded in 2022 by Jesse Lyu Cheng, who had in 2017 sold startup Raven Tech (maker of virtual assistants) to Chinese tech giant Baidu. (1)(2)(3) Rabbit initially raised $30M from Khosla Ventures and other investors. (4) The company's flagship product, the Rabbit R1,   sells at a unit price of $199.
 
@@ -18,17 +18,17 @@ AI Bootcamp Challenge #1
 
 * Because Rabbit lauched a piece of hardware that is *separate* from any phone, their software (AI interface executed with LAM rabbits/agents) is not viewable by Apple or Android as it would be had they had made an app on an app store. Competitors could make a similar product from scratch, but the hardware solution has a higher barrier to entry becuase of the greater cost and complexity that goes along with manufacturing. 
 
-* However, even Lyu has admitted that Apple, Android, or any othe phone manufacturer could create something similar within their platforms and eliminate the [R1] device altogether. To that point, some users have been able to bootleg the Android Package Kit (APK) and replicate the service in a phone-based app. (7) That begs the question, who will need a secondary device that is more expensive than a typical app? And perhaps the bigger question is, does an AI interface eliminate the need for apps at all? (8) It is a question that phone manufacturers must be addressing in their product pipelines today.
+* However, even Lyu has admitted that Apple, Android, or any othe phone manufacturer could create something similar within their platforms and eliminate the need for the R1 device altogether. To that point, some users have been able to bootleg the Android Package Kit (APK) and replicate the service in a phone-based app. (7) That begs the question, who will need a secondary device that is more expensive than a typical app? And perhaps the bigger question is, does an AI interface eliminate the need for apps at all? (8) It is a question that phone manufacturers must be addressing in their product pipelines today.
 
 ## Landscape
 
-* The Rabbit R1 is in the AI devices field. This field has experienced significant growth in the last few years, driven by health, fitness and personal technology devices. More intuitive interfaces are allowing users to interact less with their devices and more with their environment, removing the intrusiveness of technology. (9) Other major companies in this field include Humane (maker of the AI pin mentioned above), and AI Schiffman (maker of the Tab), Limitless (maker of the Rewind Pendant), and reportedly an OpenAI/LoveFrom collaboration (potential future maker of an AI phone).
+* The Rabbit R1 is in the AI devices field. This field has experienced significant growth in the last few years, driven by health, fitness and personal technology devices. More intuitive interfaces are allowing users to interact less with their devices and more with their environment, removing the intrusiveness of technology. (9) Other major companies in this field include Humane (maker of the AI Pin), and AI Schiffman (maker of the Tab), Limitless (maker of the Rewind Pendant), and reportedly an OpenAI/LoveFrom collaboration (potential future maker of an AI phone).
 
-* The [AI Pin](https://humane.com/aipin) offers a comparable product to the R1, but with a more expensive upfront cost ($699 vs. $199) and with a $24 monthly subscription that the R1 doesn't have. (6)  The device is worn like a broach and operated with finger touches. Unlike the R1, the AI Pin has a camera to interact with your environment, and a projector that allows you to make selections on the palm of your hand (since it lacks R1's display screen).
+* The [AI Pin](https://humane.com/aipin) offers a comparable product to the R1, but with a more expensive upfront cost ($699 vs. $199) and with a $24 monthly subscription that the R1 doesn't have. (6)  The device is worn like a broach and operated with finger touches. Unlike the R1, the AI Pin has a camera to interact with your environment, and a projector that allows you to make selections on the palm of your hand (since it lacks R1's display screen). With the visual processing, it is conceivable that the AI Pin uses Computer Vision and Deep Learning in addition to the mostly Natural Language Processing and Machine Learning needed to process data from the R1. But, after five years of development, the product launched to abismal reviews and only sold 10,000 units, which equates to a paltry $7.24 million in revenue. It is now looking for a buyer. (11)
 
-* The [Tab](https://mytab.ai/) device is nothing more than a $600 always-on microphone worn on a necklace. Recordings are downloaded to your phone, then to the cloud where your conversations are transcribed by ChatGPT. The $50 per month service fee (waived for the first year) covers the life coaching insights that the platform gleans out of your conversations. It's creator, Avi Schiffmann, stated of the device:
+* The [Tab](https://mytab.ai/) device is nothing more than a $600 always-on microphone worn on a necklace. Recordings are downloaded to your phone, then to the cloud where your conversations are transcribed by ChatGPT. On the cusp of General AI, the $50 per month service fee (waived for the first year) covers the life coaching insights that the platform gleans out of your conversations. It's creator, Avi Schiffmann, stated of the device:
 
-   >“Tab is not an assistant, period. I’m not building something that’s going to connect to Notion or your emails any time soon. I’m solely building . . . a friend that morphs into your creative partner, life coach, [or] therapist as needed,” he says. “What I’m trying to do is create a new relationship in your life; radical transparency without concern of judgment." (11)
+   >“Tab is not an assistant, period. I’m not building something that’s going to connect to Notion or your emails any time soon. I’m solely building . . . a friend that morphs into your creative partner, life coach, [or] therapist as needed,” he says. “What I’m trying to do is create a new relationship in your life; radical transparency without concern of judgment." (10)
    
    While he may be onto something, several aspects of Tab remain to be seen:
    * Whether Tab users - and especially the people they talk to that aren't Tab users - appreciate their conversations being recorded
@@ -36,9 +36,9 @@ AI Bootcamp Challenge #1
    * How perceptive and useful Tab's insight really are, and if they warrant a $50 service fee by displacing traditional therapy
    * If there is a more affordable microphone
 
-* The [Rewind Pendant](https://www.limitless.ai/#pendant) from Limitless is a magnetic broach that functions similarly to the Tab, but it aspires to be a notetaker and AI assistant rather than a life coach. At $99 with no service fee, it powerfully questions the Tab's business model. They've raised $33 million in funding, and anticipate a product release in fourth quarter of 2024. (11)
+* The [Rewind Pendant](https://www.limitless.ai/#pendant) from Limitless is a magnetic broach that functions similarly to the Tab, but it aspires to be a Narrow AI notetaker and assistant rather than a life coach. At $99 with no service fee, it powerfully questions the Tab's business model. They've raised $33 million in funding, and anticipate a product release in fourth quarter of 2024. (12)
 
-* OpenAI/LoveFrom's anticipated collaboration on the "iPhone of artificial intelligence" has been rumored to marry industry-leading AI functionality with unparalleled attention to detail. While the $1B fundraising efforts and LoveFrom's expansive development timelines may put the realization of this rumor several years out (11), it is probably the most likely market challenger to the R1, as it would presumably be *the* well-crafted groud-up solution that fully harnesses the ability of AI to transform user experience.
+* OpenAI/LoveFrom's anticipated collaboration on the "iPhone of artificial intelligence" has been rumored to marry industry-leading General AI functionality with unparalleled attention to detail. While the $1B fundraising efforts and LoveFrom's expansive development timelines may put the realization of this rumor several years in the future (11), it is  the most likely market challenger to the R1, as it would presumably be *the* well-crafted groud-up solution that fully harnesses the ability of AI to transform user experience.
 
 ## Results
 
@@ -54,8 +54,8 @@ AI Bootcamp Challenge #1
         - Scalability - Lyu has mentioned user training for rabbit devevelopmnt (much like app development on phones) may be where Rabbit R1 reaches scalability. (3) This may be where LAM-based products have a leg up on their competition.
 
     - R1 device value to user: 
-        - Environmental navigation - Huge assist with phone interface; less of a generalist when it comes to overall environment. How is your company performing relative to competitors in the same field?
-        - Reliability - So new that reliabiltiy data isn't available. However, the simplicity of the device design (and keeping the processing in the cloud) bodes well. However, the AI Pin competitor has even less hardware (no screen), so may hae a leg up. Pratical application may be more positive than the rival AI pin, which has been critsized for its battery life. (12)
+        - Environmental navigation - Huge assist with phone interface; less useful when it comes to navigating your environment.
+        - Reliability and battery life - So new that reliabiltiy data isn't available. However, the simplicity of the device design (and keeping the processing in the cloud) bodes well. The AI Pin competitor has no screen, but has the camera and projector, so may be even more complex. Pratical application may be more positive than the rival AI pin, which has been critsized for its battery life. (12)
         - Accuracy - Again, so new that accuracy data is not available
         - Cost - definte industry leader with device cost, as mentioned above
         - Data security - industry standard, cloud computing
@@ -63,7 +63,7 @@ AI Bootcamp Challenge #1
 
 ## Recommendations
 
-* A prudent recommendation for Rabbit would be to develop a physical **ambient computing hardware product** with a platform leveraging **cloud computing** for a high level of data security, and implementing **LAM technology** to bypass the need for apps. This would disrupt the multi-billion dollar smartphone industry by offering a better user experience through a simplified, more efficient and more secure user interface with technology.
+* To avoid the fate of the pocket watch, Rabbit needs to evolve the R1 into a device with **ambient computing**, keeping **cloud computing** for a high level of data security, and **LAM technology**, but completely bypassing the need for apps. This would disrupt the multi-billion dollar smartphone industry by offering a better user experience through a simplified, more efficient and more secure user interface with technology.
 
 * LAMs, cloud computing and ambient computing are all technologies that reduce user disruption while increasing personal environmental navigation, and making the user-tech interface more effective, efficient and secure. The addition of ambient computing to the Rabbit's existing technology would add passive/experiential learning, further reducing the user's technology intrusion.
 
@@ -80,5 +80,5 @@ AI Bootcamp Challenge #1
 8. Medium, *The Rise of Large Action Models, LAMs: How Can AI Understand and Execute Human Inteitions?*, accessed 07 June 2024, https://medium.com/version-1/the-rise-of-large-action-models-lams-how-ai-can-understand-and-execute-human-intentions-f59c8e78bc09#:~:text=LAMs%20is%20the%20spanning%20out,to%20turn%20into%20'agents'
 9. Perplexity, *The Future Is Here: The Impact of AI on Wearable Technology*, accessed 07 June 2024, https://www.perplexity.ai/page/The-Future-is-0JOCB8XlTdGdqYftFVZOOA
 10. Fast Company, *Avi Shiffmann's Tab AI necklace has raised $1.9 million to replace God*, accessed 09 June 2024, https://www.fastcompany.com/91007630/avi-schiffmanns-tab-ai-necklace-has-raised-1-9-million-to-replace-god
-11. 
+11. Engadget, *Humaane is said to be seeking a $1 Billion buyout after only 10,000 orders of its terrible AI Pin*, accessed 09 June 2024, https://www.engadget.com/humane-is-said-to-be-seeking-a-1-billion-buyout-after-only-10000-orders-of-its-terrible-ai-pin-134147878.html
 12. Inc., *Humane Founders' Toxic Positivity May Have Killed Its AI Pin Device*, accessed 07 June 2024, https://www.inc.com/kit-eaton/humane-founders-toxic-positivity-may-have-killed-its-ai-pin-device.html#:~:text=Humane%20has%20since%20been%20said,be%20north%20of%20%241%20billion.
